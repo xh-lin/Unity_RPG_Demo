@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54e22f81bc7d97342a6eb80c8abc1996, type: 3}
+  m_Name: item_Poison
+  m_EditorClassIdentifier: 
+  name: Poison Food
+  itemType: 4
+  icon: {fileID: 21300000, guid: f65023889763c7644b5579f0b019da6b, type: 3}
+  iconColor: {r: 0.7420653, g: 0.12135102, b: 0.9528302, a: 1}
+  itemPrefab: {fileID: 5639741510646304637, guid: fb186b9eab32f93438bea548a3a9df9b,
+    type: 3}
+  itemEffects:
+  - {fileID: 11400000, guid: b3e79fc6622f17a42aed36367ee8ab16, type: 2}
